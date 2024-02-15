@@ -4,6 +4,10 @@
 
 This project is a JavaScript application that calculates the factorial of a given number. It provides a factorial function implemented in JavaScript with error handling for negative numbers. Additionally, it includes Jest tests to ensure the correctness of the factorial function. Moreover, it offers a basic HTML interface for users to input a number and see its factorial.
 
+## Live Preview
+
+You can view a live preview of this project [here](https://ozioma45.github.io/js-factorial-testing/).
+
 ## Installation
 
 To use this project, you'll need to have Node.js installed on your system.
