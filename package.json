@@ -1,5 +1,22 @@
 {
+  "name": "js-factorial-testing",
+  "version": "1.0.0",
+  "description": "A project for testing JavaScript code using Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "javascript",
+    "testing",
+    "jest"
+  ],
+  "author": "Ozioma Egole",
+  "license": "MIT",
   "devDependencies": {
+    "@babel/core": "^7.23.9",
+    "@babel/preset-env": "^7.23.9",
+    "babel-jest": "^29.7.0",
     "jest": "^29.7.0"
   }
 }
