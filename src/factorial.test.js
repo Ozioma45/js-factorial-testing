@@ -1,5 +1,9 @@
-const sum = require("./factorial.js");
+const factorial = require("./factorial.js");
 
-test("adds 1 + 2 to equal 3", () => {
-  expect(sum(1, 2)).toBe(3);
+test("Give the factorial of a given number.", () => {
+  expect(factorial(5)).toBe(120);
+});
+
+test("Factorial of zero", () => {
+  expect(factorial(0)).toBe(1);
 });
